@@ -33,3 +33,4 @@ yarn-error.log*
 
 # long file assets
 *.mp4
+*.MP4
